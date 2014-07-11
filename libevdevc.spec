@@ -6,7 +6,7 @@
 
 Name:		libevdevc
 Version:	1.1
-Release:	2
+Release:	3
 Summary:	Kernel Evdevc Device Wrapper Library from ChromiumOS
 Group:		System/Libraries
 License:	MIT
