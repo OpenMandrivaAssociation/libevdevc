@@ -2,6 +2,8 @@
 %define lib_name %mklibname evdevc %{lib_major}
 %define lib_hollow %mklibname hollow %{lib_major}
 %define develname %mklibname -d evdevc
+%define	debugcflags %nil
+%define	_fortify_cflags %nil
 # This package is a fork from ChromiumOS
 
 Name:		libevdevc
