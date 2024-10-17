@@ -12,7 +12,7 @@ Release:	3
 Summary:	Kernel Evdevc Device Wrapper Library from ChromiumOS
 Group:		System/Libraries
 License:	MIT
-URL:		http://www.freedesktop.org/wiki/Software/libevdev
+URL:		https://www.freedesktop.org/wiki/Software/libevdev
 Source0:	http://www.freedesktop.org/software/%{name}/%{name}-%{version}.tar.bz2
 
 %description
