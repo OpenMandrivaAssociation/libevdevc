@@ -15,6 +15,7 @@ License:	MIT
 URL:		https://www.freedesktop.org/wiki/Software/libevdev
 Source0:	http://www.freedesktop.org/software/%{name}/%{name}-%{version}.tar.bz2
 
+BuildRequires:	make
 %description
 %{name} is a library to wrap kernel evdev devices and provide a proper API
 to interact with those devices.
